@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:0,ESPN HD
+#EXTGRP:unsorted
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:unsorted
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:0,ESPN 4 (1080p)
+#EXTGRP:unsorted
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:0,ESPN8 The Ocho (1080p)
+#EXTGRP:unsorted
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:unsorted
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:0,ESPN_2
+#EXTGRP:unsorted
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:0,ESPN_2
+#EXTGRP:unsorted
+http://190.61.47.54:8000/play/a005/index.m3u8
+#EXTINF:0,ESPN_3
+#EXTGRP:unsorted
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:0,ESPN_4
+#EXTGRP:unsorted
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:0,ESPN_5
+#EXTGRP:unsorted
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:0,ESPN_6
+#EXTGRP:unsorted
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:0,ESPN_7
+#EXTGRP:unsorted
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:0,ESPN Latin America Colombia (1080p)
+#EXTGRP:unsorted
+http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:0,ESPN Latin America Mexico (1080p)
+#EXTGRP:unsorted
+http://168.228.44.241:9997/play/a06p/index.m3u8
+#EXTINF:0,ESPN Premium HD (1080p)
+#EXTGRP:unsorted
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:0,ESPN USA HD
+#EXTGRP:unsorted
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:0,ESPN MX 3 HD
+#EXTGRP:unsorted
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:0,ESPN 4 MX (1080p)
+#EXTGRP:unsorted
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:0,ESPN8 ARG (1080p)
+#EXTGRP:unsorted
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:0,Ovacion TV PE (720p)
+#EXTGRP:unsorted
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0,TYC SPORTS ARG
+#EXTGRP:unsorted
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb553d1a726c648e98d43d62d2ef41a0d9243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27757c09e0a957f378bbdbe306f2c180680585ee2be5da5edf50f4c8d65a1b01e4e887b45ef805fc8d54aba9d8658c8159b72f3179e91f3d9874486d5c301f96d9a5c88f3bf1fe3e24ca08b3083d4937d3c98311b521f41e3b0e186245ea86633917c62a9c508d11cdc9d2dc1413abe12914c854aea21ca5be189c6c7dc381ab9e57924e67b18bf93666571ef0d93f709daafeccf7a7f98b937704eca6cdf2d11f5f197c4398bd91c9aba22cae1274d7888a64c9599bd94fcf0a37edc749a89a4c37d75476d5256dd1dbacc399269fc68b8c21616594f6fa48e1a91d58e1063340fceab76e03e37f59b878ad40b7bed651851e72999780d7ec3396933b478acd46c22d9685ac5063cfd5927890da9eb7bbbf48d977351dfe9ce4cfb60f8a64a83a670ce43081953e3bc7c2506261bf7e1690a3c7cb935c7dbd8ee7a0c40a1b7faf7ce5737102a5535288ef1ec64949eca4b48472132ccaceca67107fdc69926ab42ae50b972c814d1e10e/51/1280x720_4077093/index.m3u8
+#EXTINF:0,TYC SPORTS ARG
+#EXTGRP:unsorted
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb7c3e167b716f8accce3f6cd2a340a0d15434845d61d53168a052c17dc1155cd0b9a5c9be1feb397ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee4585bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578223a547cc92f88cce43d1d7987ea856e46544597a28cbcd7b92cd09b28a983c3cc87471742d3f89cb3b1cde5dfc257379ba9bfbba77ea61b6e347b241477584052dfe5db964bf1dafa16fada8a9d6414043c48e3b3365c8e1d1560dc55ca710b302909d52ed9a5a354be78301f92f2e2a99feca5ba8ca18978ceee4de663037da9849979cfdd6a1e0cd02ab2cc4c3fb8f2e0260574453d613f2c12dec20d32efc9553390a190dedbb45d48adc693560648f941181404cf788ddc3972513fe4d3716a86cd050002ceb316f77ea64b9b9347e862b0fca6468ae1665ce12b2e86cc6a6dde41432fa8b9415b13cb9c77fb89c35a063385615a0b27d0f372b53e4ae375d7e29b9068eb5edee780e0ce98dbdddc841370a3c571f4cbcebe9749499d36b7a32c4402d747b001df5558e3a3f61e1a1907f782335c76ba46c7ef7039b2e5cdc280e0a/183/640x360_929973/index.m3u8
+#EXTINF:0,TyC SPORTS ARG
+#EXTGRP:unsorted
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:0,FIFA+ Hispanic America (720p)
+#EXTGRP:unsorted
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:0,FIFA+ Hispanic America (720p)
+#EXTGRP:unsorted
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:0,FIFA+ Portuguese (720p)
+#EXTGRP:unsorted
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:0,Win Sports (1080p)
+#EXTGRP:unsorted
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:0,FUTV
+#EXTGRP:unsorted
+http://190.61.90.17:40000/play/a03v/index.m3u8
+#EXTINF:0,FIFA+ Spain (720p)
+#EXTGRP:unsorted
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:0,Gol HD (720p)
+#EXTGRP:unsorted
+http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+#EXTINF:0,TYC SPORTS FAN
+#EXTGRP:unsorted
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:0,BEIN SPORTS XTRA Ñ
+#EXTGRP:unsorted
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:0,BEIN SPORTS XTRA
+#EXTGRP:unsorted
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:0,BEIN SPORTS XTRA
+#EXTGRP:unsorted
+https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0,BEIN SPORTS XTRA
+#EXTGRP:unsorted
+https://bein-beinxtrasports-firetv.amagi.tv/playlistR480p.m3u8
+#EXTINF:0,BEIN SPORTS español
+#EXTGRP:unsorted
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:0,BEIN SPORTS español
+#EXTGRP:unsorted
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
+#EXTINF:0,GE TV
+#EXTGRP:unsorted
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:0,DSports Radio
+#EXTGRP:unsorted
+https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
+#EXTINF:0,DSports Radio
+#EXTGRP:unsorted
+https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
+#EXTINF:0,NBC SPORTS NOW
+#EXTGRP:unsorted
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:0,NFL USA
+#EXTGRP:unsorted
+https://netanyahu.indianservers.st/secure/BhYmYdDExFapYrRdzxsGAgAbJjEjgCVa/0/1793549387/NFLN_540p/index.m3u8
+#EXTINF:0,TELEMUNDO PR
+#EXTGRP:unsorted
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0,CLARO SPORTS MX
+#EXTGRP:unsorted
+https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
+#EXTINF:0,Red Bull TV
+#EXTGRP:unsorted
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0,RALLY TV
+#EXTGRP:unsorted
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8
+#EXTINF:0,SPORTTV
+#EXTGRP:unsorted
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:0,colimdotvlive
+#EXTGRP:unsorted
+https://edge.livestreaminggroup.info/colimdotvlive/tracks-v1a1/mono.m3u8
+#EXTINF:0,crtvchile
+#EXTGRP:unsorted
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:0,DDSPORTS
+#EXTGRP:unsorted
+https://mumbai-edge.smartplaytv.in/DDSportsHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Fox Cricket
+#EXTGRP:unsorted
+https://vishnu.indianservers.st/secure/ZVHQTVxADZxXlArINLAcvqTYFXtnUlNp/0/1793549540/foxcricket_540p/index.m3u8
